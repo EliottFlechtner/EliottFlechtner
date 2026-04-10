@@ -11,7 +11,7 @@ Currently a **Research Intern** at **[Keio University's Quantum Networking Lab (
 
 ## 📫 Connect with me
 - 🌍 [LinkedIn](https://www.linkedin.com/in/eliott-flechtner)
-- 📧 [eliott.flechtner@telecom-paris.fr](mailto:eliott.flechtner@telecom-paris.fr)
+- 📧 [eliott.flechtner@epita.fr](mailto:eliott.flechtner@epita.fr) / [eliott.flechtner@telecom-paris.fr](mailto:eliott.flechtner@telecom-paris.fr)
 - 📍 Currently based in: **Fujisawa/Tokyo, Japan 🇯🇵**
 
 ---
