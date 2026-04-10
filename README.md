@@ -55,3 +55,10 @@ Currently a **Research Intern** at **[Keio University's Quantum Networking Lab (
 - 👔 **Nestlé Japan:** Led a data migration to a cloud-native Snowflake architecture and built an AI-driven RAG search engine for internal ops.
 - 💡 **MistralAI Hackathon 2024:** Developed **PedalAI**, an LLM-powered music creation assistant using advanced function-calling.
 - 🎓 **Leadership:** Former Vice-President of **BackToBasics**, organizing advanced engineering support for 100+ students.
+
+---
+
+## 📊 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EliottFlechtner&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=EliottFlechtner&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliottFlechtner&layout=compact&theme=tokyonight)
