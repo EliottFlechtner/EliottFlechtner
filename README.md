@@ -5,7 +5,7 @@
 **Double MSc Graduate | Quantum & Computer Systems Engineer**
 *Bridging the gap between deep systems engineering and the future of quantum networking.*
 
-Currently a **Research Intern** at **Keio University's Quantum Networking Lab (KQCC)** in Japan, focusing on high-fidelity simulation of quantum repeater protocols and arbitrary network topologies.
+Currently a **Research Intern** at **[Keio University's Quantum Networking Lab (KQCC)](https://quantum.keio.ac.jp/)** in Japan, focusing on high-fidelity simulation of quantum repeater protocols and arbitrary network topologies.
 
 ---
 
@@ -28,7 +28,7 @@ Currently a **Research Intern** at **Keio University's Quantum Networking Lab (K
 
 | Category | Technologies |
 | :--- | :--- |
-| **Quantum** | Qiskit, Q#, MPQP, Classiq, liboqs |
+| **Quantum** | Qiskit, Q#, MPQP, Classiq |
 | **Systems/Low-Level** | C, C++, x86/64 ASM, 68k, Rust (Learning), UNIX Internals |
 | **Data & Cloud** | Python, Snowflake, DBT, SQL, PostgreSQL, AWS, Azure |
 | **DevOps & Tools** | Docker, Git, LLVM, CMake, Make, Autotools, Valgrind, QEMU |
