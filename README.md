@@ -41,8 +41,8 @@ Currently a **Research Intern** at **[Keio University's Quantum Networking Lab (
 ### 🌌 Quantum Networking & Security
 - **[libPQC](https://github.com/EliottFlechtner/libPQC)**: A comprehensive playground for lattice-based cryptography (**ML-KEM, ML-DSA**) featuring cryptographic core flows, lattice attack estimators (LLL/BKZ), and verified KAT conformance suites.
 - **[QChat](https://github.com/EliottFlechtner/qchat)**: A full-stack, E2E encrypted chat application using **NIST-standardized PQC** (Kyber/Dilithium) via `liboqs`.
-- **[PQC & ECC Library](https://github.com/EliottFlechtner/cryptography-tools)**: Implementation of ElGamal and ECC from scratch in Python for protocol stress-testing.
-- **[QUBO Quantum Solver](https://github.com/EliottFlechtner/qubo-solver)**: Automated QUBO-to-Ising converter for solving combinatorial optimization tasks on quantum simulators.
+- **[PQC & ECC Library](https://github.com/EliottFlechtner/libCrypto)**: Implementation of ElGamal and ECC from scratch in Python for protocol stress-testing.
+- **[QUBO Quantum Solver](https://github.com/EliottFlechtner/libQAOA)**: Automated QUBO-to-Ising converter for solving combinatorial optimization tasks on quantum simulators.
 
 ### 💻 Systems & Architecture
 - **[iAPX86 Toolchain](https://github.com/EliottFlechtner/iapx86-compiler)**: A comprehensive toolchain comprising a compiler, disassembler, and interpreter for Intel 8086 family processors.
