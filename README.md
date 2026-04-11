@@ -3,6 +3,7 @@
 # Hi, I'm Eliott Flechtner 👋🇫🇷 🇯🇵
 
 **Double MSc Graduate | Quantum & Computer Systems Engineer**
+
 *Bridging the gap between deep systems engineering and the future of quantum networking.*
 
 Currently a **Research Intern** at **[Keio University's Quantum Networking Lab (KQCC)](https://quantum.keio.ac.jp/)** in Japan, focusing on high-fidelity simulation of quantum repeater protocols and arbitrary network topologies.
